@@ -1,0 +1,3 @@
+discord.py
+ccxt
+python-dotenv
